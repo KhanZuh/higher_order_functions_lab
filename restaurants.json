@@ -1,0 +1,399 @@
+[
+    {
+        "id": 1,
+        "name": "Oro",
+        "address": "85 Kilmarnock Road",
+        "postcode": "G41 3YR",
+        "website": "https://oro.restaurant/",
+        "cuisines": [
+            "ITALIAN",
+            "SCOTTISH"
+        ],
+        "location": {
+            "id": 1,
+            "town": "Glasgow",
+            "neighbourhood": "Shawlands"
+        },
+        "latitude": 55.82848067622028,
+        "longitude": -4.283155686885101
+    },
+    {
+        "id": 2,
+        "name": "Halloumi South",
+        "address": "697 Pollockshaws Road",
+        "postcode": "G41 2AB",
+        "website": "https://halloumiglasgow.co.uk/",
+        "cuisines": [
+            "GREEK"
+        ],
+        "location": {
+            "id": 1,
+            "town": "Glasgow",
+            "neighbourhood": "Shawlands"
+        },
+        "latitude": 55.83631038173913,
+        "longitude": -4.270213013722374
+    },
+    {
+        "id": 3,
+        "name": "The Brunch Club",
+        "address": "67 Old Dumbarton Road",
+        "postcode": "G3 8RF",
+        "website": "https://www.thebrunchclub.co/",
+        "cuisines": [
+            "BRUNCH"
+        ],
+        "location": {
+            "id": 2,
+            "town": "Glasgow",
+            "neighbourhood": "West End"
+        },
+        "latitude": 55.867491696125064,
+        "longitude": -4.293176500740617
+    },
+    {
+        "id": 4,
+        "name": "Nippon Kitchen",
+        "address": "91 West George Street",
+        "postcode": "G2 1PB",
+        "website": "http://nipponrestaurant.co.uk/",
+        "cuisines": [
+            "JAPANESE"
+        ],
+        "location": {
+            "id": 3,
+            "town": "Glasgow",
+            "neighbourhood": "City Centre"
+        },
+        "latitude": 55.862206104811186,
+        "longitude": -4.255168672861043
+    },
+    {
+        "id": 5,
+        "name": "Big Lola's Taqueria",
+        "address": "493 Smithdown Road",
+        "postcode": "L15 5AE",
+        "website": "https://biglolas.co.uk/",
+        "cuisines": [
+            "MEXICAN"
+        ],
+        "location": {
+            "id": 4,
+            "town": "Liverpool",
+            "neighbourhood": "Wavertree"
+        },
+        "latitude": 53.390099848417435,
+        "longitude": -2.9255602025424277
+    },
+    {
+        "id": 6,
+        "name": "Rudy's Pizza",
+        "address": "Peter Street",
+        "postcode": "M2 5QJ",
+        "website": "https://www.rudyspizza.co.uk/pizzerias/peterst",
+        "cuisines": [
+            "PIZZA"
+        ],
+        "location": {
+            "id": 5,
+            "town": "Manchester",
+            "neighbourhood": "City Centre"
+        },
+        "latitude": 53.47842331842055,
+        "longitude": -2.2474895790689655
+    },
+    {
+        "id": 7,
+        "name": "Fargo's",
+        "address": "377 Ladypool Road",
+        "postcode": "B12 8LA",
+        "website": "http://www.fargosfresh.co.uk/",
+        "cuisines": [
+            "PIZZA",
+            "BURGERS"
+        ],
+        "location": {
+            "id": 6,
+            "town": "Birmingham",
+            "neighbourhood": "Balsall Heath"
+        },
+        "latitude": 52.45295183461756,
+        "longitude": -1.8789830376678671
+    },
+    {
+        "id": 8,
+        "name": "Happy Lamb Hot Pot",
+        "address": "21 Ladywell Walk",
+        "postcode": "B5 4ST",
+        "website": "https://happylambuk.com/restaurants/birmingham/",
+        "cuisines": [
+            "MONGOLIAN"
+        ],
+        "location": {
+            "id": 7,
+            "town": "Birmingham",
+            "neighbourhood": "Chinese Quarter"
+        },
+        "latitude": 52.475159788534754,
+        "longitude": -1.8966440079643896
+    },
+    {
+        "id": 9,
+        "name": "Rasa Sayang Soho",
+        "address": "5 Macclesfield Street",
+        "postcode": "W1D 6AY",
+        "website": "https://www.rasasayangfood.com/",
+        "cuisines": [
+            "SINGAPOREAN",
+            "MALAYSIAN"
+        ],
+        "location": {
+            "id": 9,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.51221728426225,
+        "longitude": -0.13142491613083804
+    },
+    {
+        "id": 10,
+        "name": "Angelina",
+        "address": "58 Dalston Lane",
+        "postcode": "E8 3AH",
+        "website": "https://www.angelina.london/",
+        "cuisines": [
+            "JAPANESE",
+            "ITALIAN"
+        ],
+        "location": {
+            "id": 10,
+            "town": "London",
+            "neighbourhood": "Hackney"
+        },
+        "latitude": 51.54878549516992,
+        "longitude": -0.0653088161289957
+    },
+    {
+        "id": 11,
+        "name": "Al-Kahf",
+        "address": "112-116 Vine Ct",
+        "postcode": "E1 1JE",
+        "website": "",
+        "cuisines": [
+            "SOMALI"
+        ],
+        "location": {
+            "id": 11,
+            "town": "London",
+            "neighbourhood": "Tower Hamlets"
+        },
+        "latitude": 51.520815214449684,
+        "longitude": -0.06448335739339328
+    },
+    {
+        "id": 12,
+        "name": "Inko Nito",
+        "address": "55 Broadwick Street",
+        "postcode": "W1F 9QS",
+        "website": "https://inkonitorestaurant.com/",
+        "cuisines": [
+            "JAPANESE"
+        ],
+        "location": {
+            "id": 9,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.51702341430502,
+        "longitude": -0.13749934134555605
+    },
+    {
+        "id": 13,
+        "name": "Cafe Beam",
+        "address": "103 Westbourne Grove",
+        "postcode": "W2 4UW",
+        "website": "https://www.cafebeam.co.uk/",
+        "cuisines": [
+            "MIDDLE_EASTERN"
+        ],
+        "location": {
+            "id": 12,
+            "town": "London",
+            "neighbourhood": "Kensington and Chelsea"
+        },
+        "latitude": 51.51605897169,
+        "longitude": -0.19338849369059816
+    },
+    {
+        "id": 14,
+        "name": "Bullgogi",
+        "address": "145 Nottinghill Gate",
+        "postcode": "W11 3LB",
+        "website": "http://www.bullgogi.com/",
+        "cuisines": [
+            "KOREAN"
+        ],
+        "location": {
+            "id": 12,
+            "town": "London",
+            "neighbourhood": "Kensington and Chelsea"
+        },
+        "latitude": 51.50868087191573,
+        "longitude": -0.1996357897948266
+    },
+    {
+        "id": 15,
+        "name": "Bone Daddies Soho",
+        "address": "31 Peter Street",
+        "postcode": "W1F 0AR",
+        "website": "https://bonedaddies.com/",
+        "cuisines": [
+            "JAPANESE"
+        ],
+        "location": {
+            "id": 9,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.51303243103601,
+        "longitude": -0.13385438794191476
+    },
+    {
+        "id": 16,
+        "name": "Humble Crumble Camden",
+        "address": "Unit 739, Camden Market",
+        "postcode": "NW1 8AH",
+        "website": "https://www.humble-crumble.com/",
+        "cuisines": [
+            "SWEET"
+        ],
+        "location": {
+            "id": 13,
+            "town": "London",
+            "neighbourhood": "Camden"
+        },
+        "latitude": 51.54257526961926,
+        "longitude": -0.1481973203643318
+    },
+    {
+        "id": 17,
+        "name": "Chin Chin Labs",
+        "address": "49-50 Camden Lock Place",
+        "postcode": "NW1 8AF",
+        "website": "https://www.chinchinicecream.com/",
+        "cuisines": [
+            "SWEET"
+        ],
+        "location": {
+            "id": 13,
+            "town": "London",
+            "neighbourhood": "Camden"
+        },
+        "latitude": 51.54145434460556,
+        "longitude": -0.1463242314730382
+    },
+    {
+        "id": 18,
+        "name": "SuperStar BBQ",
+        "address": "4 St Giles High Street",
+        "postcode": "WC2H 8AB",
+        "website": "https://www.superstarbbq.co.uk/",
+        "cuisines": [
+            "KOREAN"
+        ],
+        "location": {
+            "id": 13,
+            "town": "London",
+            "neighbourhood": "Camden"
+        },
+        "latitude": 51.51587690882989,
+        "longitude": -0.1276293891461802
+    },
+    {
+        "id": 19,
+        "name": "Lezziz Charcoal Grill",
+        "address": "13 Walm Lane",
+        "postcode": "NW2 5SJ",
+        "website": "http://www.lezziz.co.uk/",
+        "cuisines": [
+            "TURKISH"
+        ],
+        "location": {
+            "id": 14,
+            "town": "London",
+            "neighbourhood": "Brent"
+        },
+        "latitude": 51.54858338557935,
+        "longitude": -0.2232626773812744
+    },
+    {
+        "id": 20,
+        "name": "Bancone Covent Garden",
+        "address": "39 William IV Street",
+        "postcode": "WC2N 4DD",
+        "website": "https://www.bancone.co.uk/",
+        "cuisines": [
+            "ITALIAN"
+        ],
+        "location": {
+            "id": 9,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.50971969812324,
+        "longitude": -0.1263729161309642
+    },
+    {
+        "id": 21,
+        "name": "Roti King",
+        "address": "40 Doric Way",
+        "postcode": "NW1 1LH",
+        "website": "https://www.rotiking.com/",
+        "cuisines": [
+            "SINGAPOREAN",
+            "MALAYSIAN"
+        ],
+        "location": {
+            "id": 13,
+            "town": "London",
+            "neighbourhood": "Camden"
+        },
+        "latitude": 51.529269810897006,
+        "longitude": -0.1317596682474947
+    },
+    {
+        "id": 23,
+        "name": "Gopal's Corner Victoria",
+        "address": "Markethalls, 121 Victoria Street",
+        "postcode": "SW1E 5NE",
+        "website": "https://www.instagram.com/gopalscorner/?hl=en",
+        "cuisines": [
+            "MALAYSIAN",
+            "SINGAPOREAN"
+        ],
+        "location": {
+            "id": 9,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.496560314928864,
+        "longitude": -0.14441286031125022
+    },
+    {
+        "id": 24,
+        "name": "The Gordon Highlander",
+        "address": "W High Street",
+        "postcode": "AB51 3QQ",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/scotland/aberdeen/the-gordon-highlander-inverurie",
+        "cuisines": [
+            "BRITISH"
+        ],
+        "location": {
+            "id": 4,
+            "town": "Inverurie",
+            "neighbourhood": "Town Centre"
+        },
+        "latitude": 57.284996342160724,
+        "longitude": -2.3796990138752268
+    }
+]

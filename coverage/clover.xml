@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1718823790181" clover="3.2.0">
+  <project timestamp="1718823790181" name="All files">
+    <metrics statements="25" coveredstatements="25" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10" elements="39" coveredelements="39" complexity="0" loc="25" ncloc="25" packages="1" files="1" classes="1"/>
+    <file name="ScranAdvisor.js" path="/Users/zuhairkhan/Documents/bnta_work/Week_08/day_3/lab_higher_order_functions/higher_order_lab_start/ScranAdvisor.js">
+      <metrics statements="25" coveredstatements="25" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="8" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="23" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="23" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="74" count="23" type="stmt"/>
+      <line num="80" count="23" type="cond" truecount="2" falsecount="0"/>
+      <line num="81" count="5" type="stmt"/>
+      <line num="83" count="18" type="stmt"/>
+      <line num="86" count="23" type="stmt"/>
+      <line num="91" count="1" type="stmt"/>
+      <line num="92" count="1" type="stmt"/>
+      <line num="96" count="1" type="stmt"/>
+      <line num="98" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="99" count="2" type="stmt"/>
+      <line num="100" count="2" type="stmt"/>
+      <line num="109" count="1" type="stmt"/>
+      <line num="123" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
